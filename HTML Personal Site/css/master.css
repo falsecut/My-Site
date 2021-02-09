@@ -1,0 +1,25 @@
+a {color:#5b7ef0; text-decoration: none;}
+#priority {
+	background-color: #fffa66;
+	color: #030303;
+	width: 75%;
+	text-align: center;
+	margin: auto;
+	clear: both;
+	font-size: 120%;
+	box-shadow: 5px 5px 15px rgba(0,0,0,.5);
+	}
+
+#priority a {
+	color: #030303;
+	}
+
+#priority a:hover {
+	color: #9c0b40;
+	}
+#footer {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 50%;
+	padding: 15px;
+		}
